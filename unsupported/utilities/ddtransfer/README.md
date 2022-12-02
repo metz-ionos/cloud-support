@@ -1,4 +1,4 @@
-# DDTRANSFER(1) : The Efficient Transfer of Large Hard Disk Images
+# DDTRANSFER(1) : Efficiently Transfer Large Hard Disk Images
 
 ## 1. Introduction
 From time to time, the task of transferring the contents of an entire hard disk
@@ -184,7 +184,5 @@ Partitions like /dev/vdd1 are also usable.
 ```
 
 
-## 8. Links
 [^clonezilla]: [https://clonezilla.org](https://clonezilla.org)
 [^bbcp]: [http://www.slac.stanford.edu/~abh/bbcp](http://www.slac.stanford.edu/~abh/bbcp) and [http://pcbunn.cithep.caltech.edu/bbcp/using_bbcp.htm](http://pcbunn.cithep.caltech.edu/bbcp/using_bbcp.htm)
-[^ddtransfer]: Public available source is https://github.com/ionos-enterprise/ionos-network-helper
